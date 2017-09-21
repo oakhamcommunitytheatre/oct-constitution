@@ -15,8 +15,9 @@ This document is a set of guidelines and procedures to which the membership of t
  	2. [Section II – Production Evaluation](#a3s2)
 	3. [Section III – Past Work](#a3s3)
 4. [Article IV – Activities and Scope](#a4)
-	1. [Section I – Mandatory Events](#a4s1)
-	2. [Section II – Optional Events](#a4s2)
+	1. [Section I – Action](#a4s1)
+	1. [Section II – Mandatory Events](#a4s2)
+	3. [Section III – Optional Events](#a4s3)
 5. [Article V – Membership Requirements](#a5)
 	1. [Section I – General Members](#a5s1)
 	2. [Section II – Formal Members](#a5s2)
@@ -50,7 +51,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a1"/>
 
-## **ARTICLE I – Name**
+## **Article I – Name**
 
 <a name="a1s1"/>
 
@@ -58,7 +59,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a2"/>
 
-## **ARTICLE II – Mission Statement**
+## **Article II – Mission Statement**
 
 <a name="a2s1"/>
 
@@ -70,11 +71,11 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a3"/>
 
-## **ARTICLE III – Artistic Vision**
+## **Article III – Artistic Vision**
 
 <a name="a3s1"/>
 
-**Section I –** Both RCT and the events it both supports and organizes will pursue both artistry and entertainment. RCT&#39;s goal is to explore theatre that has both entertainment value and artistic depth. As a student group, RCT has the unique opportunity to explore unconventional and challenging theatrical productions. It should always attempt to take advantage of this opportunity.
+**Section I –** RCT and the events it both supports and organizes will pursue artistry and entertainment. RCT&#39;s goal is to explore theatre that has both entertainment value and artistic depth. As a student group, RCT has the unique opportunity to explore unconventional and challenging theatrical productions. It should always attempt to take advantage of this opportunity.
 
 <a name="a3s2"/>
 
@@ -95,11 +96,18 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a4s1"/>
 
-**Section I –** Each season (hereby defined as starting in September and ending by July), RCT must put on a production showcasing a series of plays produced by members of the Ryerson Community. While the plays must be directed by, produced by, and acted by members of the Ryerson Community, they do not necessarily have to be written by them. However, when evaluating applications for performances to be showcased in the end-of-year production, new plays written by community members ([defined in Article V, Section I](#a5s1)) will be prioritized.
+**Section I –** An action is defined as any formal work, activity, or operation planned and/or undertaken by the RCT Executive Team. Actions may include, but are not limited to, events (such as pub nights, fundraisers, and/or the end-of-year show), organizational projects, or administrative tasks, and are defined as such at the discretion of the current season's executive team.
+
+1. Any action defined as such must have an accompanying action proposal, regardless of its approval status (see [Article VII](#a7)).
+2. An action proposal specifically refers to a written plan and/or outline describing an action.
 
 <a name="a4s2"/>
 
-**Section II** – RCT is not limited to the end-of-year production. RCT encourages people from within and without RCT&#39;s formal membership to contribute ideas, suggestions, and proposals for new events. Some events that RCT have sponsored or held in the past are:
+**Section II –** Each season (hereby defined as starting in September and ending by July), RCT must put on a production showcasing a series of plays produced by members of the Ryerson Community. While the plays must be directed by, produced by, and acted by members of the Ryerson Community, they do not necessarily have to be written by them. However, when evaluating applications for performances to be showcased in the end-of-year production, new plays written by community members ([defined in Article V, Section I](#a5s1)) will be prioritized.
+
+<a name="a4s3"/>
+
+**Section III** – RCT is not limited to the end-of-year production. RCT encourages people from within and without RCT&#39;s formal membership to contribute ideas, suggestions, and proposals for new events. Some events that RCT have sponsored or held in the past are:
 
 1. Scene Studies/Acting Workshops
 2. Fundraisers/Pub Nights
@@ -134,7 +142,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 **Section I –** Executive board members are decomposed into two sub-classes, each with distinct responsibilities and requirements for eligibility.
 
-1. _Executive-At-Large_ – An applicant is only eligible for consideration if they are a formal member of RCT. Executives-at-Large are executives operating on the Executive Board and within the power structure of RCT without formal titles or responsibilities. However, Executives-at-Large are the hands, eyes, ears, and sometimes legs of the group. The executives-at-large work closely with the General Manager to realize events, though of course they may work with the Artistic Director and Treasurer as well. Executives-at-Large are encouraged and expected to either come up with or help write at least one event proposal in coordination with the Artistic Director, partly to help train new executives for leadership in subsequent years, but mostly to enrich the community as a whole with varied events.  Executives-at-Large will attend meetings, help procure properties and resources, and provide input. Executives-at-Large will not be expected to provide input on or make major decisions, but their input is always appreciated.
+1. _Executive-At-Large_ – An applicant is only eligible for consideration if they are a formal member of RCT. Executives-at-Large are executives operating on the Executive Board and within the power structure of RCT without formal titles or responsibilities. However, Executives-at-Large are the hands, eyes, ears, and sometimes legs of the group. The executives-at-large work closely with the General Manager to realize actions, though of course they may work with the Artistic Director and Treasurer as well. Executives-at-Large are encouraged and expected to either come up with or help write at least one action proposal in coordination with the Artistic Director, partly to help train new executives for leadership in subsequent years, but mostly to enrich the community as a whole with varied events.  Executives-at-Large will attend meetings, help procure properties and resources, and provide input. Executives-at-Large will not be expected to provide input on or make major decisions, but their input is always appreciated.
 
 	1. _Informal Titles -_ Depending on the strengths and weaknesses of an executive-at-large, a number of informal titles may be assigned. These titles may be rotated throughout the executives-at-large, or may be dissolved at any time throughout the year. These informal titles are opportunities for executives-at-large to develop their skills and lead or further the group&#39;s interests. Some informal titles include, but are not limited to –
 
@@ -153,9 +161,9 @@ This document is a set of guidelines and procedures to which the membership of t
 
 2. _Named Executives –_ There are three formal named positions on the RCT Executive Board. An applicant is only eligible for a named position if they have been an Executive-At-Large for one full season. Though more named positions may be added in future, only three must exist at all times in the general case. In the event that there are not enough eligible members to fill all three roles, or the members that are eligible are not interested, one or all of these roles can be combined or shared. This combination of roles does not impart any additional voting power.
 
-	1. **Artistic Director** - The Artistic Director is responsible for the guidance and direction of the group. The Artistic Director **must** have a clear vision on where s/he would like to take this group. In more practical terms, the Artistic Director is responsible for **overall planning**. The Artistic Director will write detailed event proposals, covering every aspect of the event, and will make final decisions on matters. During play submission review, the Artistic Director will lead the decision-making process. While the Artistic Director has final say in what should happen in the group, this only matters when there is no consensus. The Artistic Director should not need to be making final decisions if there is already a majority.
+	1. **Artistic Director** - The Artistic Director is responsible for the guidance and direction of the group. The Artistic Director **must** have a clear vision on where s/he would like to take this group. In more practical terms, the Artistic Director is responsible for **overall planning**. The Artistic Director will write detailed action proposals, covering every aspect of the action, and will make final decisions on matters. During play submission review, the Artistic Director will lead the decision-making process. While the Artistic Director has final say in what should happen in the group, this only matters when there is no consensus. The Artistic Director should not need to be making final decisions if there is already a majority.
 
-	2. **General Manager**- The General Manager is responsible for executing and procuring the requirements detailed in the Artistic Director&#39;s event proposals. The General Manager will set deadlines, do check-ups, and utilize the executives-at-large (and other resources of RCT) to accomplish the goals set by the Artistic Director. The General Manager must ensure that deadlines are being met. The General Manager may act as Artistic Director (and vice-versa) if the Artistic Director is absent or unavailable.
+	2. **General Manager**- The General Manager is responsible for executing and procuring the requirements detailed in the Artistic Director&#39;s action proposals. The General Manager will set deadlines, do check-ups, and utilize the executives-at-large (and other resources of RCT) to accomplish the goals set by the Artistic Director. The General Manager must ensure that deadlines are being met. The General Manager may act as Artistic Director (and vice-versa) if the Artistic Director is absent or unavailable.
 
 	3. **Treasurer** - The Treasurer is responsible for being the point-of-contact with Oakham&#39;s financial department, approving and keeping track of any and all expenditures and incomes in RCT. The Treasurer will draft budgets, requisition funds, reimburse anyone who makes approved purchases for the group, and keep up-to-date with any other financial matters.
 
@@ -210,7 +218,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a6s6"/>
 
-**Section VI –** If a general member has a complaint regarding the professional conduct, fulfillment of duty, or competence of an executive member, they may, and are encouraged to, issue a written complaint to any member of the executive board. In the event that a complaint is issued, the following events must occur and be documented in a way that can be provided upon request by Oakham or by any of the involved parties-
+**Section VI –** If any member has a complaint regarding the professional conduct, fulfillment of duty, or competence of any other member(s) (or, indeed, the entire board), they may, and are encouraged to, issue a written complaint to any member of the executive board. In the event that a complaint is issued, the following events must occur and be documented in a way that can be provided upon request by Oakham or by any of the involved parties-
 
 1. The complaint must be read by all members of the executive board.
 2. Each member of the executive board must provide his or her opinion on the complaint.
@@ -252,11 +260,11 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a7s1"/>
 
-**Section I –** The Treasurer, General Manager, and Artistic Director must be in agreement for an event proposal to be eligible to be approved for action.
+**Section I –** The Treasurer, General Manager, and Artistic Director must be in agreement for an action proposal to be eligible to be approved for action.
 
 <a name="a7s2"/>
 
-**Section II –** An event proposal may only be approved for action after receiving a majority vote at an event proposal meeting.  A meeting cannot be held within 72 hours of the decision to hold it.
+**Section II –** An event proposal may only be approved for action after receiving a majority vote at an action proposal meeting.  A meeting cannot be held within 72 hours of the decision to hold it.
 
 <a name="a7s3"/>
 
