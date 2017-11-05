@@ -1,4 +1,4 @@
-# **RYERSON COMMUNITY THEATRE**
+# **OAKHAM COMMUNITY THEATRE - AN OAKHAM SOCIETY**
 
 This document is a set of guidelines and procedures to which the membership of the aforementioned organization will abide and refer to in the execution of events, tasks, and/or conflicts. This document must always be made available in some form to all members.
 
@@ -38,7 +38,7 @@ This document is a set of guidelines and procedures to which the membership of t
 	5. [Section V - Lateness Policy](#a7s5)
 	6. [Section VI - Significant Majority](#a7s6)
 8. [Article VIII – Dissolution of Organization](#a8)
-	1. [Section I – Funds and Properties of RCT](#a8s1)
+	1. [Section I – Funds and Properties of OCT](#a8s1)
 9. [Article IX – Procedure to Amend the Constitution](#a9)
 	1. [Section  I - Amendment Procedure](#a9s1)
 
@@ -55,7 +55,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a1s1"/>
 
-**Section I –** The name of this organization shall be Ryerson Community Theatre (hereby referred to as RCT).
+**Section I –** The formal name of this organization shall be Oakham Community Theatre - An Oakham Society (hereby referred to as OCT).
 
 <a name="a2"/>
 
@@ -67,7 +67,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a2s2"/>
 
-**Section II –** RCT will abide by all Ryerson University and Oakham House policies and procedures.
+**Section II –** OCT will abide by all Ryerson University and Oakham House policies and procedures.
 
 <a name="a3"/>
 
@@ -75,20 +75,20 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a3s1"/>
 
-**Section I –** RCT and the events it both supports and organizes will pursue artistry and entertainment. RCT&#39;s goal is to explore theatre that has both entertainment value and artistic depth. As a student group, RCT has the unique opportunity to explore unconventional and challenging theatrical productions. It should always attempt to take advantage of this opportunity.
+**Section I –** OCT and the events it both supports and organizes will pursue artistry and entertainment. OCT&#39;s goal is to explore theatre that has both entertainment value and artistic depth. As a student group, OCT has the unique opportunity to explore unconventional and challenging theatrical productions. It should always attempt to take advantage of this opportunity.
 
 <a name="a3s2"/>
 
-**Section II –** While RCT will always consider any production, regardless of content, some or all of the following guidelines will apply when evaluating a prospective or ongoing production:
+**Section II –** While OCT will always consider any production, regardless of content, some or all of the following guidelines will apply when evaluating a prospective or ongoing production:
 
 1. Violent, graphic, and/or disturbing content will only be accepted if the director/writer/actor/producer/stage manager (collectively referred to as the Producers) can provide artistic justification (shock value, especially if it does not contribute to a coherent theme or message, is not an acceptable justification).
-2. A prospective or ongoing production can only be rejected or dropped from the roster for the above reason if a significant majority ([defined in Article VI](#a6)) of RCT members on the editorial or assessment board feel that the Producers have not provided acceptable justification.
-3. A prospective or ongoing production can only be accepted, rejected, or dropped from the roster if a significant majority of RCT members on the editorial or assessment board feel that its quality is unacceptable.
+2. A prospective or ongoing production can only be rejected or dropped from the roster for the above reason if a significant majority ([defined in Article VI](#a6)) of OCT members on the editorial or assessment board feel that the Producers have not provided acceptable justification.
+3. A prospective or ongoing production can only be accepted, rejected, or dropped from the roster if a significant majority of OCT members on the editorial or assessment board feel that its quality is unacceptable.
 4. In the previous two cases, if a significant majority is not present, the Artistic Director will make the final decision.
 
 <a name="a3s3"/>
 
-**Section III** – While the writers of original plays that have been accepted by RCT retain the rights to their work, RCT reserves the right to use their pieces for educational purposes at any time without permission such as in educational workshops and scene studies. Being a not-for-profit, RCT may perform this work at any time, however, if RCT is interested in performing a writer&#39;s work, they will make every reasonable attempt to get in touch, and will not proceed unless the original writer in question has not responded within 7 full days. If the writer explicitly refuses within this time period, RCT will not perform the play. RCT may only perform any of the original pieces without permission as long the performance is not-for-profit. This right does not extend to publication or distribution of the work of RCT playwrights.  Of course, this constitution is not a legally binding document, but it is hoped that any writer for RCT will be magnanimous enough to volunteer their work for the betterment of the Ryerson Community.
+**Section III** – While the writers of original plays that have been accepted by OCT retain the rights to their work, OCT reserves the right to use their pieces for educational purposes at any time without permission such as in educational workshops and scene studies. Being a not-for-profit, OCT may perform this work at any time, however, if OCT is interested in performing a writer&#39;s work, they will make every reasonable attempt to get in touch, and will not proceed unless the original writer in question has not responded within 7 full days. If the writer explicitly refuses within this time period, OCT will not perform the play. OCT may only perform any of the original pieces without permission as long the performance is not-for-profit. This right does not extend to publication or distribution of the work of OCT playwrights.  Of course, this constitution is not a legally binding document, but it is hoped that any writer for OCT will be magnanimous enough to volunteer their work for the betterment of the Ryerson Community.
 
 <a name="a4"/>
 
@@ -96,18 +96,18 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a4s1"/>
 
-**Section I –** An action is defined as any formal work, activity, or operation planned and/or undertaken by the RCT Executive Team. Actions may include, but are not limited to, events (such as pub nights, fundraisers, and/or the end-of-year show), organizational projects, or administrative tasks, and are defined as such at the discretion of the current season's executive team.
+**Section I –** An action is defined as any formal work, activity, or operation planned and/or undertaken by the OCT Executive Team. Actions may include, but are not limited to, events (such as pub nights, fundraisers, and/or the end-of-year show), organizational projects, or administrative tasks, and are defined as such at the discretion of the current season's executive team.
 
 1. Any action defined as such must have an accompanying action proposal, regardless of its approval status (see [Article VII](#a7)).
 2. An action proposal specifically refers to a written plan and/or outline describing an action.
 
 <a name="a4s2"/>
 
-**Section II –** Each season (hereby defined as starting in September and ending by July), RCT must put on a production showcasing a series of plays produced by members of the Ryerson Community. While the plays must be directed by, produced by, and acted by members of the Ryerson Community, they do not necessarily have to be written by them. However, when evaluating applications for performances to be showcased in the end-of-year production, new plays written by community members ([defined in Article V, Section I](#a5s1)) will be prioritized.
+**Section II –** Each season (hereby defined as starting in September and ending by July), OCT must put on a production showcasing a series of plays produced by members of the Ryerson Community. While the plays must be directed by, produced by, and acted by members of the Ryerson Community, they do not necessarily have to be written by them. However, when evaluating applications for performances to be showcased in the end-of-year production, new plays written by community members ([defined in Article V, Section I](#a5s1)) will be prioritized.
 
 <a name="a4s3"/>
 
-**Section III** – RCT is not limited to the end-of-year production. RCT encourages people from within and without RCT&#39;s formal membership to contribute ideas, suggestions, and proposals for new events. Some events that RCT have sponsored or held in the past are:
+**Section III** – OCT is not limited to the end-of-year production. OCT encourages people from within and without OCT&#39;s formal membership to contribute ideas, suggestions, and proposals for new events. Some events that OCT have sponsored or held in the past are:
 
 1. Scene Studies/Acting Workshops
 2. Fundraisers/Pub Nights
@@ -119,20 +119,20 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a5s1"/>
 
-**Section I –** General membership has only one requirement - that the applicant be interested in building theatre and the dramatic arts in the Ryerson Community. Once an applicant has attended an RCT event, such as a scene study, pub night, or end-of-year show, they are considered a member of RCT and will be treated with the respect and consideration that entails.
+**Section I –** General membership has only one requirement - that the applicant be interested in building theatre and the dramatic arts in the Ryerson Community. Once an applicant has attended an OCT event, such as a scene study, pub night, or end-of-year show, they are considered a member of OCT and will be treated with the respect and consideration that entails.
 
 <a name="a5s2"/>
 
-**Section II -** A formal member (able to vote in the event of a general election for executive appointment which is not, at this time, how RCT appoints members - [see Article VI, Section IV](#a6s4)) of RCT must have either attended the majority of or contributed greatly to RCT events (such as the scene studies/acting workshops). As well, a member is considered formal if they have acted as a Producer in a play or made a major contribution in some other way (Front-of-House, Backstage Crew, Technical Staff, Graphic Design, etc.)
+**Section II -** A formal member (able to vote in the event of a general election for executive appointment which is not, at this time, how OCT appoints members - [see Article VI, Section IV](#a6s4)) of OCT must have either attended the majority of or contributed greatly to OCT events (such as the scene studies/acting workshops). As well, a member is considered formal if they have acted as a Producer in a play or made a major contribution in some other way (Front-of-House, Backstage Crew, Technical Staff, Graphic Design, etc.)
 
 <a name="a5s3"/>
 
-**Section III** – A person may be black-listed (barred) from attending RCT events or acting as a Producer at any time. However, in order to do so, a significant majority of members on the Executive Board must be in agreement. In the event that no significant majority exists, the Artistic Director has final say.
+**Section III** – A person may be black-listed (barred) from attending OCT events or acting as a Producer at any time. However, in order to do so, a significant majority of members on the Executive Board must be in agreement. In the event that no significant majority exists, the Artistic Director has final say.
 
 1. The black-listed person must be informed of their black-list status
 2. A person may not be black-listed for more than one season without review by the next season's executive board (during the review, the person must be treated as if they are not currently blacklisted and decisions made as per the above section rules ([Section III](#a5s3)).
 3. All executive members ([defined in Article VI](#a6)) must be informed of members who are blacklisted or were blacklisted for the last season.
-4. RCT&#39;s Executive Board may not intentionally withhold information about an ex-member&#39;s blacklisting if it is requested by any member, formal or otherwise, but is not required to volunteer the information
+4. OCT&#39;s Executive Board may not intentionally withhold information about an ex-member&#39;s blacklisting if it is requested by any member, formal or otherwise, but is not required to volunteer the information
 
 <a name="a6"/>
 
@@ -142,7 +142,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 **Section I –** Executive board members are decomposed into two sub-classes, each with distinct responsibilities and requirements for eligibility.
 
-1. _Executive-At-Large_ – An applicant is only eligible for consideration if they are a formal member of RCT. Executives-at-Large are executives operating on the Executive Board and within the power structure of RCT without formal titles or responsibilities. However, Executives-at-Large are the hands, eyes, ears, and sometimes legs of the group. The executives-at-large work closely with the General Manager to realize actions, though of course they may work with the Artistic Director and Treasurer as well. Executives-at-Large are encouraged and expected to either come up with or help write at least one action proposal in coordination with the Artistic Director, partly to help train new executives for leadership in subsequent years, but mostly to enrich the community as a whole with varied events.  Executives-at-Large will attend meetings, help procure properties and resources, and provide input. Executives-at-Large will not be expected to provide input on or make major decisions, but their input is always appreciated.
+1. _Executive-At-Large_ – An applicant is only eligible for consideration if they are a formal member of OCT. Executives-at-Large are executives operating on the Executive Board and within the power structure of OCT without formal titles or responsibilities. However, Executives-at-Large are the hands, eyes, ears, and sometimes legs of the group. The executives-at-large work closely with the General Manager to realize actions, though of course they may work with the Artistic Director and Treasurer as well. Executives-at-Large are encouraged and expected to either come up with or help write at least one action proposal in coordination with the Artistic Director, partly to help train new executives for leadership in subsequent years, but mostly to enrich the community as a whole with varied events.  Executives-at-Large will attend meetings, help procure properties and resources, and provide input. Executives-at-Large will not be expected to provide input on or make major decisions, but their input is always appreciated.
 
 	1. _Informal Titles -_ Depending on the strengths and weaknesses of an executive-at-large, a number of informal titles may be assigned. These titles may be rotated throughout the executives-at-large, or may be dissolved at any time throughout the year. These informal titles are opportunities for executives-at-large to develop their skills and lead or further the group&#39;s interests. Some informal titles include, but are not limited to –
 
@@ -159,13 +159,13 @@ This document is a set of guidelines and procedures to which the membership of t
 
 		Executives-at-large broadly get to choose their level of involvement, but a basic level of commitment and competence is required by all members.
 
-2. _Named Executives –_ There are three formal named positions on the RCT Executive Board. An applicant is only eligible for a named position if they have been an Executive-At-Large for one full season. Though more named positions may be added in future, only three must exist at all times in the general case. In the event that there are not enough eligible members to fill all three roles, or the members that are eligible are not interested, one or all of these roles can be combined or shared. This combination of roles does not impart any additional voting power.
+2. _Named Executives –_ There are three formal named positions on the OCT Executive Board. An applicant is only eligible for a named position if they have been an Executive-At-Large for one full season. Though more named positions may be added in future, only three must exist at all times in the general case. In the event that there are not enough eligible members to fill all three roles, or the members that are eligible are not interested, one or all of these roles can be combined or shared. This combination of roles does not impart any additional voting power.
 
 	1. **Artistic Director** - The Artistic Director is responsible for the guidance and direction of the group. The Artistic Director **must** have a clear vision on where s/he would like to take this group. In more practical terms, the Artistic Director is responsible for **overall planning**. The Artistic Director will write detailed action proposals, covering every aspect of the action, and will make final decisions on matters. During play submission review, the Artistic Director will lead the decision-making process. While the Artistic Director has final say in what should happen in the group, this only matters when there is no consensus. The Artistic Director should not need to be making final decisions if there is already a majority.
 
-	2. **General Manager**- The General Manager is responsible for executing and procuring the requirements detailed in the Artistic Director&#39;s action proposals. The General Manager will set deadlines, do check-ups, and utilize the executives-at-large (and other resources of RCT) to accomplish the goals set by the Artistic Director. The General Manager must ensure that deadlines are being met. The General Manager may act as Artistic Director (and vice-versa) if the Artistic Director is absent or unavailable.
+	2. **General Manager**- The General Manager is responsible for executing and procuring the requirements detailed in the Artistic Director&#39;s action proposals. The General Manager will set deadlines, do check-ups, and utilize the executives-at-large (and other resources of OCT) to accomplish the goals set by the Artistic Director. The General Manager must ensure that deadlines are being met. The General Manager may act as Artistic Director (and vice-versa) if the Artistic Director is absent or unavailable.
 
-	3. **Treasurer** - The Treasurer is responsible for being the point-of-contact with Oakham&#39;s financial department, approving and keeping track of any and all expenditures and incomes in RCT. The Treasurer will draft budgets, requisition funds, reimburse anyone who makes approved purchases for the group, and keep up-to-date with any other financial matters.
+	3. **Treasurer** - The Treasurer is responsible for being the point-of-contact with Oakham&#39;s financial department, approving and keeping track of any and all expenditures and incomes in OCT. The Treasurer will draft budgets, requisition funds, reimburse anyone who makes approved purchases for the group, and keep up-to-date with any other financial matters.
 
 3. A new named role may only be added if the General Manager, Artistic Director, and Treasurer are in agreement that it is necessary, even if a majority exists in the board as a whole.
 
@@ -173,7 +173,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a6s2"/>
 
-**Section II -** Approving and assessing plays will be done by the Editorial Board and Assessment Board, respectively. No RCT executive board member may be barred from serving on either or all of these boards.
+**Section II -** Approving and assessing plays will be done by the Editorial Board and Assessment Board, respectively. No OCT executive board member may be barred from serving on either or all of these boards.
 
 <a name="a6s3"/>
 
@@ -187,19 +187,19 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a6s4"/>
 
-**Section IV –** In the past, elections and campaigning have been proposed for determining board members. At the time of writing, RCT feels that electing executive members onto the RCT board without proven experience is unwise, unfair, and a waste of time and resources - elections favor members that have been involved in larger productions (naturally, larger productions have more formal members, which results in more votes). However, in the event of an election, the rules are as follows:
+**Section IV –** In the past, elections and campaigning have been proposed for determining board members. At the time of writing, OCT feels that electing executive members onto the OCT board without proven experience is unwise, unfair, and a waste of time and resources - elections favor members that have been involved in larger productions (naturally, larger productions have more formal members, which results in more votes). However, in the event of an election, the rules are as follows:
 
 1. Only formal members and executives ([defined in Article V](#a5)) are allowed to vote
 2. Formal members may only run for an Executive-At-Large position
 3. Only Executives-At-Large and current Named Executives may run for a named position, though either can run for an Executive-At-Large position
 4. All campaigners have access to the same amount of funding and support. A campaigner may not spend their own money to support their campaign. The amount of funding released for campaigning will be determined by Oakham&#39;s Financial Director
 5. In the event that a campaigner breaks the above rule, s/he will be disqualified immediately.
-6. In the event that a campaigner has not handed in all of the receipts of his/her purchases (one copy to Oakham, one to whichever public forum is most representative of the general RCT membership) 48 hours before the voting date, s/he will be disqualified immediately. Note: all credit card, debit card, and other financially sensitive information must be blacked out (for personal security).
+6. In the event that a campaigner has not handed in all of the receipts of his/her purchases (one copy to Oakham, one to whichever public forum is most representative of the general OCT membership) 48 hours before the voting date, s/he will be disqualified immediately. Note: all credit card, debit card, and other financially sensitive information must be blacked out (for personal security).
 7. In the event that a campaigner has more material (posters, pamphlets, music, etc.,) than is accounted for in their receipts, s/he will be disqualified immediately.
 	1. If the campaigner has sufficient proof that foul play is uncertain, but insufficient proof to outright disprove it, elections will be suspended until either the campaigner or the accuser(s) can provide sufficient proof to either confirm or deny the accusation. If neither party provides sufficient proof, decisions will favor the campaigner.
-	2. In the event that either the campaigner or accuser are proven wrong, a public statement will be released by RCT stating the results of the accusation and the names of everyone involved.
+	2. In the event that either the campaigner or accuser are proven wrong, a public statement will be released by OCT stating the results of the accusation and the names of everyone involved.
 	3. Sufficient proof will be determined by Oakham&#39;s Financial Director.
-8. In the event that a campaigner is disqualified, RCT&#39;s Current Executive Board may not withhold the information or refrain from posting it publicly when requested, but is not required to volunteer the information or voluntarily post it publicly.
+8. In the event that a campaigner is disqualified, OCT&#39;s Current Executive Board may not withhold the information or refrain from posting it publicly when requested, but is not required to volunteer the information or voluntarily post it publicly.
 
 <a name="a6s5"/>
 
@@ -231,7 +231,7 @@ This document is a set of guidelines and procedures to which the membership of t
 	3. The complainant will begin the meeting by articulating his or her complaint in full. The complainant must be given enough time to fully articulate his or her complaint, to his or her satisfaction. If an executive board member interrupts this articulation without good cause, they will be removed from the meeting until the articulation is complete.
 	4. If the executive member(s) at whom the complaint is issued is present, they will then be given the opportunity to fully articulate his or her response to this complaint. If an executive board member or the complainant interrupts this articulation without good cause, they will be removed from the meeting until the articulation is complete. If the executive member(s) at whom the complaint is issued is not present, they must either provide (a) written statement(s) that will be read aloud in full in representation of their articulation or expressly waive their right to articulate.
 	5. Once both the complainant and the executive member(s) at whom the complaint was issued have completed their articulations, the executive board and complainant will then collaborate to find some solution that is mutually agreeable to both the complainant and a significant majority of the executive board.
-5. In the case that the complainant feels that a satisfactory solution has not been offered and is either unwilling to call or unhappy with the results of a complaint meeting, the complaint will be forwarded to and will fall under the discretion of the Oakham House Director. This must also occur if a mutually agreeable solution cannot be reached during a complaint meeting. If this occurs, any further procedures will be handled by the Oakham House. If requested, RCT must either provide the complainant with confirmation that their complaint has been forwarded to Oakham or assist the complainant in submitting their complaint to Oakham directly.
+5. In the case that the complainant feels that a satisfactory solution has not been offered and is either unwilling to call or unhappy with the results of a complaint meeting, the complaint will be forwarded to and will fall under the discretion of the Oakham House Director. This must also occur if a mutually agreeable solution cannot be reached during a complaint meeting. If this occurs, any further procedures will be handled by the Oakham House. If requested, OCT must either provide the complainant with confirmation that their complaint has been forwarded to Oakham or assist the complainant in submitting their complaint to Oakham directly.
 
 <a name="a6s7"/>
 
@@ -252,7 +252,7 @@ This document is a set of guidelines and procedures to which the membership of t
 13. The member-to-be-reviewed must be present at the formal review meeting during the majority vote. However, if 30 minutes have passed since their expected arrival time, and all other expected members are present, the vote will take place without them.
 14. A vote must proceed no more than 15 minutes after the defense is over, and the reviewing members may silence the member-to-be-reviewed for this entire duration.
 15. A formal review meeting must be recorded in its entirety with no less than one camera with microphone, capturing both the reviewing members and the member-to-be-reviewed. In the case of technical failure, the meeting will be suspended until recording can be restored. Any decisions, comments, or dialogue made while recording devices are malfunctioning may not be used as a talking point, point of defense, or otherwise have any impact on the results or discussion of the meeting once recording is restored.
-16. RCT may not withhold recordings (or otherwise prevent access) from a formal member, an executive member, or a blacklisted ex-member such that they are unable to view a meeting recording (in the case of a blacklisted ex-member, they may only view formal review meetings in which they are a participant or subject), but it is not expected for RCT to volunteer a recording.
+16. OCT may not withhold recordings (or otherwise prevent access) from a formal member, an executive member, or a blacklisted ex-member such that they are unable to view a meeting recording (in the case of a blacklisted ex-member, they may only view formal review meetings in which they are a participant or subject), but it is not expected for OCT to volunteer a recording.
 
 <a name="a7"/>
 
@@ -264,7 +264,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a7s2"/>
 
-**Section II –** An event proposal may only be approved for action after receiving a majority vote at an action proposal meeting.  A meeting cannot be held within 72 hours of the decision to hold it.
+**Section II –** An action proposal may only be approved for action after receiving a majority vote at an action proposal meeting.  A meeting cannot be held within 72 hours of the decision to hold it.
 
 <a name="a7s3"/>
 
@@ -290,7 +290,7 @@ This document is a set of guidelines and procedures to which the membership of t
 
 <a name="a8s1"/>
 
-**Section I –** In the event that RCT completely dissolves, all of its funds and properties will remain with Oakham House. Indeed, all of its funds and properties are already the property of Oakham House.
+**Section I –** In the event that OCT completely dissolves, all of its funds and properties will remain with Oakham House. Indeed, all of its funds and properties are already the property of Oakham House.
 
 <a name="a9"/>
 
@@ -301,7 +301,7 @@ This document is a set of guidelines and procedures to which the membership of t
 **Section I –** The constitution may only be amended given the following conditions -
 
 1. The constitution may only be amended during a Constitutional Amendment Meeting (hereby referred to as CAM).
-2. All formal members must be notified that a CAM is occurring. RCT must extend a public invitation to all formal members.
+2. All formal members must be notified that a CAM is occurring. OCT must extend a public invitation to all formal members.
 3. A CAM must be announced at least one week before it occurs.
 4. The Artistic Director, General Manager, and Treasurer must be present at the CAM.
 5. Within reason, the schedules of all executive members that wish to attend must be accommodated.
@@ -310,7 +310,7 @@ This document is a set of guidelines and procedures to which the membership of t
 8. If a member cannot attend a CAM, decisions and amendments will be made without them.
 9. During a CAM, any member present may propose an amendment.
 10. The results of a CAM must be made publicly available within 72 hours of its ending.
-11. If a CAM results in a ratified amendment, all instances of the Constitution managed by RCT must be updated or removed within two weeks of the ratification (old copies of the Constitution do not necessarily have to be removed, but outdated versions must be clearly marked as such).
+11. If a CAM results in a ratified amendment, all instances of the Constitution managed by OCT must be updated or removed within two weeks of the ratification (old copies of the Constitution do not necessarily have to be removed, but outdated versions must be clearly marked as such).
 
 <a name="apxa"/>
 
